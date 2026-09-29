@@ -72,7 +72,7 @@ I'm a fourth-year **Software & Information Systems Engineering** student at **Be
 
 ## 🚀 Engineering & Leadership Background
 
-Before beginning my degree, I served in **Unit 8200, IDF Intelligence Corps** as a Team Leader and Regional Communications NCO, following service as an Optical Transmission Technician. I worked with mission-critical communications infrastructure, real-time network monitoring, field troubleshooting, and technical team leadership.
+Before beginning my degree, I served in **Unit 8200, IDF Intelligence Corps** as a Team Leader and Regional Communications NCO, following service as an Optical Transmission Technician.
 
 ---
 
