@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32804068/README.md)
+[README.md](https://github.com/user-attachments/files/32804316/README.md)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=145&section=header" alt="Decorative gradient header" />
@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellenlevinn)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellenlevinn)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elenlevin1998@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elenlevin1998%40gmail.com)
 
 </div>
 
@@ -72,7 +72,7 @@ I'm a fourth-year **Software & Information Systems Engineering** student at **Be
 
 ## 🚀 Engineering & Leadership Background
 
-Before beginning my degree, I served in **Unit 8200, IDF Intelligence Corps** as a Team Leader and Regional Communications NCO, following service as an Optical Transmission Technician.
+Before beginning my degree, I served in **Unit 8200, IDF Intelligence Corps** as a Team Leader and Regional Communications NCO, following service as an Optical Transmission Technician. I worked with mission-critical communications infrastructure, real-time network monitoring, field troubleshooting, and technical team leadership.
 
 ---
 
@@ -84,7 +84,7 @@ I'm open to student and internship opportunities where I can contribute to real-
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellenlevinn)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellenlevinn)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elenlevin1998@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elenlevin1998%40gmail.com)
 
 </div>
 
